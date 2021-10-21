@@ -24,6 +24,18 @@
   color: white;
 }
 
+.table {
+  border: solid 1em gray;
+}
+
+.thead {
+  border: solid 1em black;
+}
+
+.td {
+  border: solid 1px lightgray;
+}
+
 .App-link {
   color: #61dafb;
 }
